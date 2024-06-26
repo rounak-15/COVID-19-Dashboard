@@ -18,6 +18,7 @@ This project is an interactive dashboard that visualizes global COVID-19 data. T
 
 **Geospatial Analysis:** Includes maps to visualize the geographical spread of COVID-19.
 
+
 **Technologies Used**
 
 **Dash:** For building the web application and creating interactive components.
